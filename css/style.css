@@ -1,0 +1,69 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.margem {
+    margin-left: 1070px !important;
+    border-color: silver !important;
+    padding: 9px 12px;
+    width: auto;
+}
+
+.margem:hover {
+    background: white !important;
+    color: black !important;
+}
+
+h3 {
+    margin-left: 10px !important;
+    color: white !important;
+    font-size: 26px !important;
+    text-align: center !important;
+}
+
+img {
+    width: 70% !important;
+    height: auto !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+span {
+    color: silver !important;
+    font-size: 15px !important;
+    display: block !important;
+    margin-top: 20px !important;
+}
+
+.disney-plus {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin-top: 10px !important;
+    color: #f6f6f6 !important;
+    text-decoration: underline !important;
+    font-size: 20px !important;
+}
+
+p {
+    color: silver !important;
+    font-size: 20px !important;
+    display: block !important;
+    margin-top: 20px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
